@@ -27,7 +27,7 @@
 * https://www.relishapp.com/rspec (testing tool for rails)
 
 ##SQL
-* http://www.tutorialspoint.com/sql/sql_tutorial.pdf 
+* http://www.tutorialspoint.com/sql/sql_tutorial.pdf
 
 
 ##Android
@@ -42,11 +42,20 @@
 ##IOS
 
 ##React
+* http://facebook.github.io/react/index.html
+* https://blog.risingstack.com/the-react-way-getting-started-tutorial/
+* https://facebook.github.io/flux/
 
 ##Redis
 
 ##Memcached
+* http://guides.rubyonrails.org/caching_with_rails.html
+* https://devcenter.heroku.com/articles/building-a-rails-3-application-with-memcache
 
 ##NodeJS
+* http://expressjs.com/starter/installing.html
 
 ##MongoDB
+* http://docs.mongodb.org/manual/core/introduction/
+* http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+
