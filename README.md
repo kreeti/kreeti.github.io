@@ -29,17 +29,39 @@
 ##SQL
 * http://www.tutorialspoint.com/sql/sql_tutorial.pdf
 
-
 ##Android
 * Editor:  Android Studio
 * http://developer.android.com/tools/studio/index.html
 * https://developer.android.com/training/basics/firstapp/index.html
 
-##Java:
-* Java The Complete Reference - 7th Edition - mytestrepository
+Java:
+* https://goo.gl/VmwKYv (Java Complete Reference)
+
 * http://www.opus-college.net/devcorner/HeadFirstJava2ndEdition.pdf
 
-##IOS
+Android guide:
+* https://developer.android.com/training/basics/firstapp/index.html
+
+ORM:
+* http://www.sitepoint.com/5-best-android-orms/
+
+##iOS
+* Editor: Xcode
+* https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/RoadMapiOS/
+
+* Objective-C:
+* http://www.tutorialspoint.com/objective_c/objective_c_tutorial.pdf
+
+* https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210
+
+* Swift:
+* https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
+
+* Core Data:
+* https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreData/Articles/cdPersistentStores.html
+
+* iOS App Architecture
+* https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html
 
 ##React
 * http://facebook.github.io/react/index.html
@@ -58,4 +80,3 @@
 ##MongoDB
 * http://docs.mongodb.org/manual/core/introduction/
 * http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
-
