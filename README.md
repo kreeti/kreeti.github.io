@@ -12,12 +12,17 @@
 * https://developer.chrome.com/devtools/docs/console (Learning to use the console)
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript (and other mdn docs on Javascript)
 * https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM (DOM related docs)
-
+* https://github.com/ericdouglas/ES6-Learning (ES6)
+* https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 ##Ruby
 * http://ruby-doc.com/docs/ProgrammingRuby/
 * https://rubymonk.com/
-
+* Read xml file, parse it and store data using Data structure.
+* Take data input and save it in xml file.
+* Read csv file, parse it and store data using Data structure.
+* Take data input and save it in csv file.
 
 ##Rails
 * http://uet.vnu.edu.vn/~chauttm/e-books/Rails_4_in_Action_v11_MEAP.pdf  (Rails 4 in action book)
